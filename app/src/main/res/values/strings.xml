@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PubLibrary</string>
+
+    <string name="module_name_1">Add Book</string>
+    <string name="module_name_2">Book Detail</string>
+    <string name="module_name_3">Modify Book</string>
+    <string name="module_name_4">Setting</string>
+    <string name="module_name_5">Search</string>
+
+    <string name="cat_card_action_select" description="A description of an action that a user of an accessibility service can perform to select the card. [CHAR LIMIT=25]">Select</string>
+    <string name="cat_card_action_deselect" description="A description of an action that a user of an accessibility service can perform to deselect the card. [CHAR LIMIT=25]">Deselect</string>
+</resources>
